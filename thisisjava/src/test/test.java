@@ -1,10 +1,9 @@
-package test.sec0924;
+package test;
 
 public class test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
 		int x = 1000000;
 		int y = 1000000;
 		int z = x*y;
@@ -18,6 +17,7 @@ public class test {
 		long z1 = (long)x * (long)y; //x와 y 앞의 long 유무의 차이 중요!!
 		
 		System.out.println(z1);
+
 	}
 
 }

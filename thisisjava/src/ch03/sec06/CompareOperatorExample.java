@@ -21,6 +21,11 @@ public class CompareOperatorExample {
 		
 		System.out.println("result4: "+ result4);
 		
+		int num3 = 1;
+		double num4 = 1.0;
+		boolean result5 = (num3 == num4);
+		System.out.println("result5: " + result5);
+		
 		float num5 = 0.1f;
 		double num6 = 1.0;
 		boolean result6 = (num5 == num6);
@@ -31,6 +36,11 @@ public class CompareOperatorExample {
 		
 		String str1 = "자바";
 		String str2 = "Java";
+		boolean result8 = (str1.equals(str2));
+		boolean result9 = (! str1.equals(str2));
+		
+		System.out.println("result8: " + result8);
+		System.out.println("result9: " + result9);
 
 	}
 

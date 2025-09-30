@@ -11,7 +11,7 @@ public class AccuracyExample1 {
 		double result = apple - number * pieceUnit;
 		
 		System.out.println("사과 1개에서 남은 양: " + result);
-
+		
 	}
 
 }
