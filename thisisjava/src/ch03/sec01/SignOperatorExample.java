@@ -10,9 +10,9 @@ public class SignOperatorExample {
 		System.out.println("x: " +x);
 		
 		byte b = 100;
-		int y = -b; //정수타입 연산의 결과는 int 타입
+		int y = -b; //정수 타입 연산의 결과는 int타입
 		
-		System.out.println("y: "+ y);
+		System.out.println("y: "+y);
 
 	}
 
