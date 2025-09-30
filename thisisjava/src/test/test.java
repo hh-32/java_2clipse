@@ -14,7 +14,7 @@ public class test {
 		
 		long x1 = 1000000;
 		long y1 = 1000000;
-		long z1 = (long)x * (long)y; //x와 y 앞의 long 유무의 차이 중요!!
+		long z1 = (long)x1 * (long)y1; //x와 y 앞의 long 유무의 차이 중요!!
 		
 		System.out.println(z1);
 

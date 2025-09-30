@@ -29,7 +29,6 @@ public class BitShiftExample2 {
 		int int4 = Byte.toUnsignedInt(byte4);
 		
 		System.out.println("네번째 바이트_부호 없는 값: "+ int4);
-		
 	}
 
 }

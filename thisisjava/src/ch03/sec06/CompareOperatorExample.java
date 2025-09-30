@@ -41,7 +41,6 @@ public class CompareOperatorExample {
 		
 		System.out.println("result8: " + result8);
 		System.out.println("result9: " + result9);
-
 	}
 
 }
