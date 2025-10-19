@@ -8,13 +8,12 @@ public class IndexOfContainsExample {
 		
 		int location = subject.indexOf("프로그래밍");
 		System.out.println(location);
-		
 		String substring = subject.substring(location);
 		System.out.println(substring);
 		
 		location = subject.indexOf("자바");
 		
-		if (location != -1)
+		if (location != -1) //교수님이 강조하신 부분
 		{
 			System.out.println("자바와 관련된 책이군요!");
 		} else

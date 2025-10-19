@@ -11,6 +11,6 @@ public class SubStringExample {
 		
 		String secondNum = ssn.substring(7);
 		System.out.println(secondNum);
-	}
+	}//문자열 잘라내기를 통해 특정 위치의 내용을 가져올 수 있다!
 
 }

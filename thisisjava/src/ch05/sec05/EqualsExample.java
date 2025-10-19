@@ -28,7 +28,7 @@ public class EqualsExample {
 		} else
 		{
 			System.out.println("strVar3과 strVar4는 참조가 다르다");
-		}
+		}//둘다 홍길동인데 왜 참조가 다르다고 출력될까 <- 이해의 포인트?
 		
 		if (strVar3.equals(strVar4))
 		{

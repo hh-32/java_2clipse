@@ -14,7 +14,7 @@ public class ReferenceVariableCompareExample {
 		
 		System.out.println(arr1 == arr2); //arr1과 arr2 변수 값이 동일한 번지인지 검사
 		System.out.println(arr2 == arr3); //arr2과 arr3 변수가 같은 배열을 참조하는지 검사
-		//변수 값이 동일한 번지인가 & 변수가 같은 배열을 참조하는가
+		//변수 값이 동일한 번지인가 & 변수가 같은 배열을 참조하는가~?
 	}
 
 }

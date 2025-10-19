@@ -22,6 +22,6 @@ public class SplitExample {
 			System.out.println(tokens[i]);
 		}
 
-	}
+	}//인덱스별로 읽어 가져오는 것과 반복문 for문을 이용해 가져오는 것, 둘다 동일한 출력값을 가짐
 
 }

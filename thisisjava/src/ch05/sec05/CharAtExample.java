@@ -18,6 +18,6 @@ public class CharAtExample {
 			break;
 		}
 
-	}
+	}//민증_성별
 
 }
