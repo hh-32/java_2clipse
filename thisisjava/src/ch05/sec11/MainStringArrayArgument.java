@@ -8,7 +8,7 @@ public class MainStringArrayArgument {
 		{
 			System.out.println("프로그램 입력 값이 부족");
 			System.exit(0); //프로그램 강제 종료
-		}
+		}//입력값 설정 이전에는 if문만 실행된다
 		
 		String strNum1 = args[0]; //첫번째 데이터 열기
 		String strNum2 = args[1]; //두번째 데이터 열기
